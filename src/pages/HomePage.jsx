@@ -14,10 +14,15 @@ function HomePage() {
       <Header />
       <main>
         <Home />
+        <div className="section-divider" />
         <About />
+        <div className="section-divider" />
         <Skills />
+        <div className="section-divider" />
         <Projects />
+        <div className="section-divider" />
         <Resume />
+        <div className="section-divider" />
         <Contact />
       </main>
       <Footer />
